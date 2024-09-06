@@ -1,0 +1,13 @@
+{
+    "USER_EXISTS": "User already exists.",
+    "USER_REGISTERED": "User Registered successfully.",
+    "USER_NOT_FOUND": "User not found.",
+    "INVALID_PASSWORD": "Enter a valid password.",
+    "USER_LOGIN": "User Logged in successfully.",
+    "USER_LOGOUT": "User Logged out successfully.",
+    "INVALID_TOKEN": "Require a valid authentication token.",
+    "USER_UPDATED": "User updated successfully.",
+    "PASSWORD_CHANGED": "Password changed successfully.",
+    "PASSWORD_MISMATCH": "New password and confirm password must be same.",
+    "DIFFERENT_PASSWORD": "New password must be different from old password."
+}
